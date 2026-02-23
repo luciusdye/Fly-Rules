@@ -1,13 +1,11 @@
 # 朋友与龙域名集
 # 更新时间：2026-02-23
-# 格式：规则类型, 匹配内容, 策略名
+# 格式：规则类型, 匹配内容
 # ios
 DOMAIN-SUFFIX,applovin
 DOMAIN-SUFFIX,prod.playsome-mobile.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ess.apple.com
-# ado
-PROCESS-NAME,friendsanddragons
 # web
 DOMAIN-SUFFIX,playsome-mobile.com
 DOMAIN-SUFFIX,friendsanddragons.com
