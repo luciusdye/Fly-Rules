@@ -3,9 +3,9 @@
 # 格式：规则类型, 匹配内容
 payload:
 # ado
-PROCESS-NAME,friendsanddragons
+  - PROCESS-NAME,friendsanddragons
 
 # web
-DOMAIN-SUFFIX,playsome-mobile.com
-DOMAIN-SUFFIX,friendsanddragons.com
-DOMAIN-SUFFIX,xsolla.com
+  - DOMAIN-SUFFIX,playsome-mobile.com
+  - DOMAIN-SUFFIX,friendsanddragons.com
+  - DOMAIN-SUFFIX,xsolla.com
