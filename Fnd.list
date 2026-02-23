@@ -3,4 +3,4 @@
 # 格式：规则类型, 匹配内容, 策略名
 DOMAIN-SUFFIX,applovin
 DOMAIN-SUFFIX,prod.playsome-mobile.com
-DOMAIN,check.amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com
