@@ -2,7 +2,7 @@
 # 更新时间：2026-02-23
 # 格式：规则类型, 匹配内容
 # ios
-DOMAIN-SUFFIX,applovin
+DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,prod.playsome-mobile.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ess.apple.com
