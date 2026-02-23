@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,xsolla.com
   - DOMAIN-SUFFIX,cloud.unity3d.com
   - DOMAIN-SUFFIX,amazonaws.com
+  - DOMAIN-SUFFIX,singular.net
