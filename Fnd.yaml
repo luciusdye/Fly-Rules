@@ -1,0 +1,9 @@
+# 更新时间：2026-02-23
+# 格式：规则类型, 匹配内容
+payload:
+# ado
+PROCESS-NAME,friendsanddragons
+# web
+DOMAIN-SUFFIX,playsome-mobile.com
+DOMAIN-SUFFIX,friendsanddragons.com
+DOMAIN-SUFFIX,xsolla.com, Google
