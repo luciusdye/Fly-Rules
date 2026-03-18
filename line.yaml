@@ -1,0 +1,22 @@
+# line_jp_rules.yaml
+# 日本账号专用 LINE 远程规则集
+# 仅包含匹配规则，不包含策略名
+
+payload:
+  # 核心服务
+  - DOMAIN-SUFFIX,line.me
+  - DOMAIN-SUFFIX,linelogin.line.me
+  - DOMAIN-SUFFIX,notify.line.me
+
+  # 消息、通话、表情包 CDN
+  - DOMAIN-SUFFIX,line-cdn.net
+  - DOMAIN-SUFFIX,line-scdn.net
+  - DOMAIN-SUFFIX,line2.naver.jp
+  - DOMAIN-SUFFIX,line-scdn.jp
+
+  # 更新下载、安装包
+  - DOMAIN-SUFFIX,dl.line-apps.com
+
+  # 语音/视频通话服务器
+  - DOMAIN-SUFFIX,line-call.jp
+  - DOMAIN-SUFFIX,line-vc.jp
