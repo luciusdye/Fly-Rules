@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,auth.openai.com
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,oaistatic.com
+  - PROCESS-NAME,codex
