@@ -4,6 +4,7 @@
 payload:
 # ado
   - PROCESS-NAME,friendsanddragons
+  - DOMAIN-SUFFIX,prod.playsome-mobile.com
 
 # web
   - DOMAIN-SUFFIX,playsome-mobile.com
