@@ -10,8 +10,3 @@ DOMAIN,config.uca.cloud.unity3d.com
 # web
 DOMAIN-SUFFIX,friendsanddragons.com
 DOMAIN-SUFFIX,xsolla.com
-# 统计直接屏蔽
-DOMAIN-SUFFIX,singular.net,REJECT
-DOMAIN-SUFFIX,googleapis.com,REJECT
-DOMAIN-SUFFIX,facebook.com,REJECT
-DOMAIN,cdp.cloud.unity3d.com,REJECT
