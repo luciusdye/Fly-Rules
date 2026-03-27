@@ -1,0 +1,6 @@
+payload:
+# fnd屏蔽
+  - DOMAIN-SUFFIX,singular.net,REJECT
+  - DOMAIN-SUFFIX,googleapis.com,REJECT
+  - DOMAIN-SUFFIX,facebook.com,REJECT
+  - DOMAIN,cdp.cloud.unity3d.com,REJECT
