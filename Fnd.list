@@ -3,13 +3,15 @@
 # 格式：规则类型, 匹配内容
 # ios
 DOMAIN-SUFFIX,applovin.com
-DOMAIN-SUFFIX,prod.playsome-mobile.com
+DOMAIN-SUFFIX,playsome-mobile.com
 DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,ess.apple.com
+DOMAIN,config.uca.cloud.unity3d.com
 
 # web
-DOMAIN-SUFFIX,playsome-mobile.com
 DOMAIN-SUFFIX,friendsanddragons.com
 DOMAIN-SUFFIX,xsolla.com
-DOMAIN-SUFFIX,cloud.unity3d.com
-DOMAIN-SUFFIX,singular.net
+# 统计直接屏蔽
+DOMAIN-SUFFIX,singular.net,REJECT
+DOMAIN-SUFFIX,googleapis.com,REJECT
+DOMAIN-SUFFIX,facebook.com,REJECT
+DOMAIN,cdp.cloud.unity3d.com,REJECT
