@@ -1,6 +1,6 @@
 # GitHub 域名规则（自动生成）
 # 来源: https://api.github.com/meta
-# 更新时间: 2026-04-10 05:09:15 UTC
+# 更新时间: 2026-04-11 04:30:33 UTC
 DOMAIN,api.github.com
 DOMAIN,broker.actions.githubusercontent.com
 DOMAIN,codeload.github.com
@@ -9,6 +9,10 @@ DOMAIN,docker-proxy.pkg.github.com
 DOMAIN,docker.pkg.github.com
 DOMAIN,github-registry-files.githubusercontent.com
 DOMAIN,github-releases.githubusercontent.com
+DOMAIN,hosted-compute-request-orchestrator-prod-eus-01.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-eus-02.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-iad-01.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-iad-02.githubapp.com
 DOMAIN,launch.actions.githubusercontent.com
 DOMAIN,maven.pkg.github.com
 DOMAIN,mavenregistryv2prod.blob.core.windows.net
@@ -98,6 +102,7 @@ DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,pkg.github.com
