@@ -1,6 +1,6 @@
 # GitHub 域名规则（自动生成）
 # 来源: https://api.github.com/meta
-# 更新时间: 2026-09-24 07:38:21 UTC
+# 更新时间: 2026-09-25 07:54:28 UTC
 DOMAIN,api.github.com
 DOMAIN,broker.actions.githubusercontent.com
 DOMAIN,cafe.github.com
