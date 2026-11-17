@@ -1,6 +1,6 @@
 # GitHub 域名规则（自动生成）
 # 来源: https://api.github.com/meta
-# 更新时间: 2026-11-16 09:50:41 UTC
+# 更新时间: 2026-11-17 10:48:02 UTC
 payload:
   - DOMAIN,api.github.com
   - DOMAIN,broker.actions.githubusercontent.com
@@ -11,6 +11,8 @@ payload:
   - DOMAIN,docker.pkg.github.com
   - DOMAIN,github-registry-files.githubusercontent.com
   - DOMAIN,github-releases.githubusercontent.com
+  - DOMAIN,hosted-compute-request-orchestrator-gccus02-01.githubapp.com
+  - DOMAIN,hosted-compute-request-orchestrator-gccus02-02.githubapp.com
   - DOMAIN,hosted-compute-request-orchestrator-prod-eus-01.githubapp.com
   - DOMAIN,hosted-compute-request-orchestrator-prod-eus-02.githubapp.com
   - DOMAIN,hosted-compute-request-orchestrator-prod-iad-01.githubapp.com
