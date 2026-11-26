@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,gemini.google.com,PROXY
+  - DOMAIN-SUFFIX,bard.google.com,PROXY
+  - DOMAIN,aistudio.google.com,PROXY
+  - DOMAIN,generativelanguage.googleapis.com,PROXY
+  - DOMAIN,alkalimining-pa.googleapis.com,PROXY
+  - DOMAIN,proactivebackend-pa.googleapis.com,PROXY
+  - DOMAIN,robinfrontend-pa.googleapis.com,PROXY
+  - DOMAIN,jnn-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,googleusercontent.com,PROXY
+  - DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
+  - DOMAIN-SUFFIX,ai.google.dev,PROXY
